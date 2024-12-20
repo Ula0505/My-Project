@@ -1,6 +1,6 @@
 #include "sdt.h"
 #include <iostream>
-
+//Программа является учебной
 int main() {
 	setlocale(LC_ALL, "Russian");
 	int a, b;
